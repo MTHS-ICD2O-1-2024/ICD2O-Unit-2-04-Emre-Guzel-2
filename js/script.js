@@ -6,11 +6,11 @@
 
 "use strict"
 
-function calculatoinOfAreaOtriangle() {
+function calculatoinOfAreaOftriangle() {
   // Setting the varibles
   const baseOfTheTriangle = parseFloat(document.getElementById("base-of-the-triangle").value)
   const heightOfTheTriangle = parseFloat (document.getElementById("height-of-the-triangle").value)
-  const calculatoinOfAreaOtriangle = (baseOfTheTriangle * heightOfTheTriangle) / 2 
+  const calculatoinOfAreaOftriangle = (baseOfTheTriangle * heightOfTheTriangle) / 2 
   // clacualtoins 
-  document.getElementById("area").innerHTML ="Area is: " + calculatoinOfAreaOtriangle + "cm²"
+  document.getElementById("area").innerHTML ="Area is: " + calculatoinOfAreaOftriangle + "cm²"
 }

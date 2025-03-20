@@ -12,7 +12,7 @@ body {
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  background: skyblue;
+  background: brown;
   margin-left: 2rem;
 }
 
@@ -40,13 +40,10 @@ body {
 }
 
 #area {
-  color: white;
+  color: black;
   font-weight: 500;
   font-style: italic;
   font-display: initial;
   margin-bottom: 1rem;
-}
-#address{
-  font-size: .9rem;
   margin-top: .5rem;
 }
